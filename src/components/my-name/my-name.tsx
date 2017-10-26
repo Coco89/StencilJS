@@ -14,7 +14,7 @@ export class MyName {
   render() {
     return (
       <div>
-        Hello, my name is {this.first} {this.last}
+        Hello, my props are {this.first} {this.last}
       </div>
     );
   }
